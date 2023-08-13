@@ -1,5 +1,6 @@
 
-Example of use dictionary based on red-black Binary Search Tree in C# with C5 library
+Example of use dictionary based on red-black Binary Search Tree in C# with C5 library.
+
 C5 - library for C# which add lot of collection types. It's project at IT University of Copenhagen. https://github.com/sestoft/C5
 
 
