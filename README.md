@@ -8,3 +8,4 @@ Here I put simple example how to use same functionality based on existing class 
 
 
 Look at usingTreeDictionary.cs in this repository.
+Solution based on unfinished C5/trees/TreeDictionary.cs class.
