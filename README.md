@@ -8,5 +8,5 @@ C5 has class C5/trees/TreeDictionary.cs but it's not finished at the moment (13.
 Here I put simple example how to use same functionality based on existing class - C5/trees/TreeSet.cs
 
 
-Look at usingTreeDictionary.cs in this repository.
+Look at usingTreeSetAsDictionary.cs in this repository.
 Solution based on unfinished C5/trees/TreeDictionary.cs class.
